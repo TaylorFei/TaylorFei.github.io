@@ -3,24 +3,26 @@ layout: page
 title: 关于我 
 ---
 
-一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
+一个在读大学生，现在在重庆的某所高校就读，懂得不多，与你一起交流学习。
 
-除了iOS技术，我还一直维护着这个博客，懂一些前端的基础知识。
+出于兴趣爱好，准备开始做博客。
 
-平时喜欢用python写一些工具，能用工具做的事情坚决不用人工去操作。
+我会一直维护着这个博客，时不时会在这里写些东西，记录我的技术成长过程。
 
-<h2> 我们的博客 </h2>  
+内容如有谬误，欢迎大家指正，我将感激不尽。
 
-这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
 
-如果你想搭建一个跟我一样的博客，可以看我的 
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
+<h2> 关于 This blog 项目 </h2>  
+
+This blog是搬运的GitHub大神的模板，博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>这里</a> 上！
+
+这里是模板作者的<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
+教程。
 
 
 有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+
 
 
 <h3> 搭建博客遇到了问题解法方法 </h3>  
