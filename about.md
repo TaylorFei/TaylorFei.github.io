@@ -12,7 +12,14 @@ title: 关于我
 内容如有谬误，欢迎大家指正，我将感激不尽。
 
 
-<h2> 关于 This blog 项目 </h2>  
+<h2> </h2>  
+
+
+
+
+
+
+<h3>  关于 This blog 项目 </h3>  
 
 This blog是搬运的GitHub大神的模板，博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>这里</a> 上！
 
@@ -20,16 +27,8 @@ This blog是搬运的GitHub大神的模板，博客源码在 <a target="_blank" 
 教程。
 
 
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
 
-
-
-
-<h3> 搭建博客遇到了问题解法方法 </h3>  
-
-查看 [技术支持](http://leopardpan.cn/support/) 需求帮助
-
-博客模板会一直持续更新，请持续关注我，谢谢~
+查看 [技术支持](http://leopardpan.cn/support/) 看这里！
 
 {% include comments.html %}
 
