@@ -30,5 +30,5 @@ This blog是搬运的GitHub大神的模板，博客源码在 <a target="_blank" 
 
 查看 [技术支持](http://leopardpan.cn/support/) 看这里！
 
-{% include comments.html %}
+
 
