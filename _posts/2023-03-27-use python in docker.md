@@ -1,3 +1,12 @@
+---
+layout: post
+title: "docker容器中使用python"
+date: 2023-03-27
+description: "use python in docker"
+tag: docker python
+---   
+
+
 # docker容器中使用python
 
 ## 简单使用
